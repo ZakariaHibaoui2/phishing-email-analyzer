@@ -1,0 +1,28 @@
+From: DHL Express Support <no-reply@notice-center.info>
+To: karim@example.org
+Subject: Newsletter: 5 Python tips this week
+Authentication-Results: mx.example.org; spf=pass; dkim=pass; dmarc=pass
+Received: from unknown (10.221.46.54)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4169848160007577084=="
+
+--===============4169848160007577084==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your payment method was declined. Update your billing information now to keep=
+ your subscription.
+
+https://dhl.notice-center.info/verify
+
+--===============4169848160007577084==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Your payment method was declined. Update your billing information now to k=
+eep your subscription.</p><p><a href=3D'https://dhl.notice-center.info/verify=
+'>View document</a></p>
+
+--===============4169848160007577084==--

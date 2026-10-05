@@ -1,0 +1,43 @@
+From: DocuSign <no-reply@docusign.net>
+To: sara@example.org
+Subject: Your monthly statement is available
+Authentication-Results:
+ mx.example.org; spf=pass smtp.mailfrom=x; dkim=pass header.d=x; dmarc=pass
+Received: from mail.docusign.net by mx.example.org
+Received: from mail.docusign.net by mx.example.org
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2753791179156622617=="
+
+--===============2753791179156622617==
+Content-Type: multipart/alternative;
+ boundary="===============2233224734345244179=="
+
+--===============2233224734345244179==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please find the agenda for our quarterly review. Slides are in the shared dri=
+ve as usual.
+
+https://www.docusign.net/orders
+
+--===============2233224734345244179==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Please find the agenda for our quarterly review. Slides are in the shared =
+drive as usual.</p><p><a href=3D'https://www.docusign.net/orders'>www.docusig=
+n.net</a></p>
+
+--===============2233224734345244179==--
+
+--===============2753791179156622617==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="report-53991.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjQgcmVwb3J0
+
+--===============2753791179156622617==--

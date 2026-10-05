@@ -1,0 +1,27 @@
+From: Adam <docs@hr-benefits-center.com>
+To: lina@example.org
+Subject: Re: project timeline
+Authentication-Results: mx.example.org; spf=pass; dkim=pass; dmarc=pass
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5782328883321852559=="
+
+--===============5782328883321852559==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello, please review the updated benefits document and sign in with your work=
+ account to acknowledge it.
+
+https://hr-benefits-center.com/view/240
+
+--===============5782328883321852559==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Hello, please review the updated benefits document and sign in with your w=
+ork account to acknowledge it.</p><p><a href=3D'https://hr-benefits-center.co=
+m/view/240'>Open document</a></p>
+
+--===============5782328883321852559==--

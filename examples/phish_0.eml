@@ -1,0 +1,28 @@
+From: DHL Express Support <no-reply@billing-update.online>
+Reply-To: help@account-verify.xyz
+To: nora@example.org
+Subject: Shared document: Q4 bonus plan.pdf
+Authentication-Results: mx.example.org; spf=softfail; dkim=fail; dmarc=fail
+Received: from unknown (196.36.71.159)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7650357710537976350=="
+
+--===============7650357710537976350==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your password expires today. Click here to keep your current password.
+
+http://billing-update.online/login
+
+--===============7650357710537976350==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Your password expires today. Click here to keep your current password.</p>=
+<p><a href=3D'http://billing-update.online/login'>https://www.dhl.com/account=
+</a></p>
+
+--===============7650357710537976350==--

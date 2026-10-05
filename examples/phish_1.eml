@@ -1,0 +1,41 @@
+From: Microsoft 365 Support <no-reply@notice-center.info>
+To: samir@example.org
+Subject: Conference schedule 9537
+Authentication-Results: mx.example.org; spf=pass; dkim=pass; dmarc=pass
+Received: from unknown (17.158.181.210)
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8982985870744516548=="
+
+--===============8982985870744516548==
+Content-Type: multipart/alternative;
+ boundary="===============1028792398549874395=="
+
+--===============1028792398549874395==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, are you available? I need you to process an urgent wire transfer today. K=
+eep this confidential.
+
+https://microsoft.notice-center.info/verify
+
+--===============1028792398549874395==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Hi, are you available? I need you to process an urgent wire transfer today=
+. Keep this confidential.</p><p><a href=3D'https://microsoft.notice-center.in=
+fo/verify'>View document</a></p>
+
+--===============1028792398549874395==--
+
+--===============8982985870744516548==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="document.iso"
+MIME-Version: 1.0
+
+TVogZmFrZQ==
+
+--===============8982985870744516548==--

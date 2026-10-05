@@ -1,0 +1,29 @@
+From: Netflix <no-reply@netflix.com>
+To: adam@example.org
+Subject: Password changed successfully
+Authentication-Results:
+ mx.example.org; spf=pass smtp.mailfrom=x; dkim=pass header.d=x; dmarc=pass
+Received: from mail.netflix.com by mx.example.org
+Received: from mail.netflix.com by mx.example.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4363360908309123774=="
+
+--===============4363360908309123774==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Following up on the timeline - can we move the review to next Tuesday afterno=
+on?
+
+https://www.netflix.com/docs
+
+--===============4363360908309123774==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Following up on the timeline - can we move the review to next Tuesday afte=
+rnoon?</p><p><a href=3D'https://www.netflix.com/docs'>www.netflix.com</a></p>
+
+--===============4363360908309123774==--

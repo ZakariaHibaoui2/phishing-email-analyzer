@@ -1,0 +1,31 @@
+From: Apple <no-reply@apple.com>
+To: adam@example.org
+Subject: Conference schedule 98227
+Authentication-Results:
+ mx.example.org; spf=pass smtp.mailfrom=x; dkim=pass header.d=x; dmarc=pass
+Reply-To: support@freshdesk.com
+Received: from mail.apple.com by mx.example.org
+Received: from mail.apple.com by mx.example.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5003084909086239256=="
+
+--===============5003084909086239256==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Lina, attached are the notes from today's sync. Action items are listed at=
+ the end. Thanks!
+
+https://www.apple.com/blog
+
+--===============5003084909086239256==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Hi Lina, attached are the notes from today's sync. Action items are listed=
+ at the end. Thanks!</p><p><a href=3D'https://www.apple.com/blog'>www.apple.c=
+om</a></p>
+
+--===============5003084909086239256==--
